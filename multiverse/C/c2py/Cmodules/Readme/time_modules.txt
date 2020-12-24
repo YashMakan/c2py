@@ -1,0 +1,11 @@
+setdate
+getdate
+clock
+time
+difftime
+strftime
+mktime
+localtime
+gmtime
+ctime
+asctime

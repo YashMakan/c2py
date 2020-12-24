@@ -1,0 +1,19 @@
+1. strlen
+2. strnlen
+3. strcmp
+4. strncmp
+5. strncmpi
+6. strcat
+7. strncat
+8. strcpy
+9. strncpy
+10.strchr
+11.strrchr
+12.strstr
+13.strrstr
+14.strdup
+15.strlwr
+16.strupr
+17.strrev
+18.strset
+18.strtok
