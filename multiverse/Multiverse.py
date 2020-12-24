@@ -1,7 +1,6 @@
 import pathlib as _pathlib
 import subprocess as _subprocess
 from multiverse.C.c2py import _c2py
-from multiverse.C.py2c import _py2c
 import os as _os
 import inspect as _inspect
 
